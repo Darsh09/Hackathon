@@ -114,7 +114,20 @@ body {
   #password {
     background-image: url('https://static.tumblr.com/mnsbkhd/5IMms3ldm/locked.png');
   }
-
+.select{
+    height: 42px;
+    
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    background: #F2F3F5;
+    background-repeat: no-repeat;
+    background-position: 15px 17px;
+    text-indent: 17%;
+    font-family: inherit;
+    font-size: 16px;
+    color: #737373;
+  }
   /*
   .wrapper{
     position: absolute;
