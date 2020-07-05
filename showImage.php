@@ -1,3 +1,4 @@
+<?php error_reporting(0); ?>
 <?php
 			$servername = "localhost";
 			$username = "root";
